@@ -1,5 +1,12 @@
 # navibility
 Navigation for all
+
+Specificazioni: un app che permette come googlemaps di pianificare un percorso con vincoli a esigenze speciali. 
+Roadmap
+See 
+https://docs.google.com/document/d/1grWyj1gGjr06n85FuY5leEDsHMtYr02Te498C2jFRFs/edit?usp=drivesdk
+
+
 Generic usecase
 Looking up a way to move from A to B with waypoints (D E F…)
 Classification (by bike, with a wheelchair, baby carriage, other limitations such as walking difficulties etc)
